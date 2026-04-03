@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+I need code for my GitHub readme which explains that I am currently working on my portfolio web page which is under construction. And that in the past little while I have been working on attaining certifications and levelling up my skills by starting courses EHDEC Investment Management with Python and Machine Learning, IBM Cloud Application Development Foundations, IBM Deep Learning with PyTorch, Keras and Tensorflow, IBM Full Stack Software Developer, IBM Data Science.
+I am currently parsing through my projects and hope to pin my favourites as soon as possible.
+Please feel free to reach out to me on LinkedIn.
+
