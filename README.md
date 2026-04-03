@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 🚧 **Currently Working On**  
-I'm currently building my personal portfolio website — it's still under construction, but coming soon!
+I'm currently building my personal portfolio website, it's still under construction, but coming soon!
 
 📚 **What I've Been Up To**  
 Over the past little while, I’ve been focused on leveling up my skills and earning certifications. Some of the courses I’ve been working through include:
