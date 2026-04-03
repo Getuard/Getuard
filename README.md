@@ -1,20 +1,21 @@
 ## Hi there 👋
 
-<!--
-**Getuard/Getuard** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚧 **Currently Working On**  
+I'm currently building my personal portfolio website — it's still under construction, but coming soon!
 
-Here are some ideas to get you started:
+📚 **What I've Been Up To**  
+Over the past little while, I’ve been focused on leveling up my skills and earning certifications. Some of the courses I’ve been working through include:
+- EHDEC Investment Management with Python and Machine Learning  
+- IBM Cloud Application Development Foundations  
+- IBM Deep Learning with PyTorch, Keras, and TensorFlow  
+- IBM Full Stack Software Developer  
+- IBM Data Science  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-I need code for my GitHub readme which explains that I am currently working on my portfolio web page which is under construction. And that in the past little while I have been working on attaining certifications and levelling up my skills by starting courses EHDEC Investment Management with Python and Machine Learning, IBM Cloud Application Development Foundations, IBM Deep Learning with PyTorch, Keras and Tensorflow, IBM Full Stack Software Developer, IBM Data Science.
-I am currently parsing through my projects and hope to pin my favourites as soon as possible.
-Please feel free to reach out to me on LinkedIn.
+💡 **Projects**  
+I’m currently reviewing and refining my projects, and I’ll be pinning my favorites here soon — stay tuned!
+
+📫 **Get in Touch**  
+Feel free to reach out or connect with me on LinkedIn!
+
+---
 
