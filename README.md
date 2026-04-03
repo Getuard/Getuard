@@ -12,7 +12,7 @@ Over the past little while, I’ve been focused on leveling up my skills and ear
 - IBM Data Science  
 
 💡 **Projects**  
-I’m currently reviewing and refining my projects, and I’ll be pinning my favorites here soon — stay tuned!
+I’m currently reviewing and refining my projects, and I’ll be pinning my favorites here soon, stay tuned!
 
 📫 **Get in Touch**  
 Feel free to reach out or connect with me on LinkedIn!
